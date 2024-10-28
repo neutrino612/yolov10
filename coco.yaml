@@ -1,0 +1,14 @@
+# COCO dataset configuration file
+
+# Path to the dataset directory
+path: D:/LMself/yolo/datasets
+
+# Train and val splits (e.g., 'train2017', 'val2017')
+train: train
+val: val
+
+# Number of classes
+nc: 1
+
+# Class names
+names: ['floatsam']
